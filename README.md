@@ -1,24 +1,32 @@
 
 <!-- ====================================================== -->
-<!-- YOSEPH ABEBE | PROFESSIONAL ENGINEERING PROFILE         -->
+<!-- YOSEPH ABEBE | COMPLETE PROFESSIONAL GITHUB PROFILE    -->
 <!-- ====================================================== -->
 
 <div align="center">
 
-<h1>👋 Hi, I'm YOSEPH ABEBE</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,100:2C5364&amp;height=200&amp;section=header&amp;text=YOSEPH%20ABEBE&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn" width="100%" alt="Yoseph Abebe Professional Banner"/>
 
-<h3>Software Engineer | Backend & Frontend | Cybersecurity | AI & Automation</h3>
+<h2>Software Engineer | Backend &amp; Frontend | Cybersecurity</h2>
+
+<h3>Machine Learning | Big Data | AI | Automation</h3>
 
 <p>
-Building secure, scalable, and practical technology solutions.
+Building scalable, secure, and intelligent technology solutions.
 </p>
+
+<a href="https://github.com/bermuro95-wq">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3000&amp;pause=1000&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+Scalable+Backend+Systems;Developing+Modern+Full-Stack+Applications;Creating+Cross-Platform+Mobile+Apps;Designing+Business+Automation+Solutions;Integrating+AI+Into+Real-World+Products" alt="Professional engineering focus"/>
+</a>
+
+<br/><br/>
 
 <a href="https://github.com/bermuro95-wq">
 <img src="https://komarev.com/ghpvc/?username=bermuro95-wq&amp;label=PROFILE+VIEWS&amp;color=0e75b6&amp;style=for-the-badge" alt="Profile views"/>
 </a>
 
 <a href="https://github.com/bermuro95-wq?tab=followers">
-<img src="https://img.shields.io/github/followers/bermuro95-wq?style=for-the-badge&amp;logo=github&amp;label=Followers" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/bermuro95-wq?style=for-the-badge&amp;logo=github&amp;label=Followers" alt="GitHub followers"/>
 </a>
 
 <a href="https://github.com/bermuro95-wq?tab=repositories">
@@ -31,16 +39,19 @@ Building secure, scalable, and practical technology solutions.
 
 ## 👨‍💻 About Me
 
-I'm **YOSEPH ABEBE**, an Information Systems graduate from Ethiopia, passionate about software engineering, cybersecurity, artificial intelligence, and building technology that solves real-world problems.
+Hello! I'm **YOSEPH ABEBE**, an Information Systems graduate from Ethiopia, passionate about software engineering, cybersecurity, artificial intelligence, and building technology that solves real-world problems.
 
 I focus on designing and developing secure, scalable applications, intelligent integrations, and automation systems.
 
-My interests span backend and frontend engineering, mobile development, machine learning, big data, cybersecurity, and modern infrastructure.
+My technical interests and engineering experience span backend and frontend engineering, mobile development, machine learning, big data, cybersecurity, and modern infrastructure.
+
+I enjoy designing, developing, testing, and improving practical software solutions while continuously expanding my technical knowledge.
 
 - 🎓 **Education:** BSc in Information Systems — Ethiopia.
 - 🛡️ **Cybersecurity:** Participant in the INSA Cyber Talent program.
 - 🌍 **International Participation:** Participated in a BRICS Machine Learning and Big Data competition held in Yekaterinburg, Russia.
-- 💻 **Engineering:** Backend, frontend, and mobile application development.
+- 💻 **Software Engineering:** Backend, frontend, and mobile application development.
+- 🔐 **Cybersecurity:** Information security and secure application development.
 - 🤖 **AI & Integrations:** AI-powered features and third-party API integrations.
 - ⚙️ **Automation:** Building connected systems and automated workflows.
 - 🚀 **Mission:** Creating secure, scalable, and impactful technology solutions.
@@ -58,7 +69,7 @@ Building secure and scalable server-side applications using:
 - Express.js
 - TypeScript
 - REST APIs
-- Authentication & Authorization
+- Authentication &amp; Authorization
 - Role-Based Access Control (RBAC)
 - Database Design
 - API Integrations
@@ -94,18 +105,20 @@ Building cross-platform mobile applications using:
 <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile development technologies"/>
 </div>
 
-## 4. Data & Infrastructure
+## 4. Data &amp; Infrastructure
 
-Working with databases, deployment environments, and application infrastructure:
+Working with databases, deployment environments, and application infrastructure.
 
-**Databases & ORM**
+**Databases &amp; ORM**
+
 - PostgreSQL
 - MySQL
 - MongoDB
 - TypeORM
 - Prisma
 
-**Infrastructure & DevOps**
+**Infrastructure &amp; DevOps**
+
 - Docker
 - Linux
 - Nginx
@@ -116,7 +129,7 @@ Working with databases, deployment environments, and application infrastructure:
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,docker,linux,nginx" alt="Database and infrastructure technologies"/>
 </div>
 
-## 5. AI & Integrations
+## 5. AI &amp; Integrations
 
 Building intelligent workflows and connected applications using:
 
@@ -131,14 +144,16 @@ Building intelligent workflows and connected applications using:
 
 ---
 
-## 🔐 Cybersecurity & Information Security
+# 💡 Additional Technical Interests
+
+## 🔐 Cybersecurity &amp; Information Security
 
 Interested in building secure applications and exploring cybersecurity challenges.
 
 Areas of interest:
 
 - Application Security
-- Authentication & Authorization
+- Authentication &amp; Authorization
 - Role-Based Access Control
 - Secure API Development
 - Information Security
@@ -146,9 +161,7 @@ Areas of interest:
 
 **Program Participation:** INSA Cyber Talent — Ethiopia.
 
----
-
-## 🤖 Machine Learning & Big Data
+## 🤖 Machine Learning &amp; Big Data
 
 Interested in exploring data-driven technologies and intelligent systems.
 
@@ -160,9 +173,7 @@ Areas of interest:
 - Intelligent Applications
 - Data-Driven Solutions
 
-**International Participation:** BRICS Machine Learning and Big Data competition activities in Yekaterinburg, Russia.
-
----
+**International Participation:** BRICS Machine Learning and Big Data competition activities held in Yekaterinburg, Russia.
 
 ## ⚙️ Automation Systems
 
@@ -178,7 +189,45 @@ Areas of interest:
 
 ---
 
-## 🎓 Education & Professional Participation
+# 🛠️ Additional Technologies &amp; Tools
+
+The following technologies are also part of my development and project toolkit.
+
+### Programming &amp; Web Technologies
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,html,css,js,bootstrap" alt="Additional programming and web technologies"/>
+</div>
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+### Database &amp; Backend Tools
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=supabase,postgres" alt="Additional database technologies"/>
+</div>
+
+- Supabase
+- PostgreSQL
+
+### Development &amp; Deployment Tools
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" alt="Development and deployment tools"/>
+</div>
+
+- Git
+- GitHub
+- Visual Studio Code
+- Netlify
+
+---
+
+# 🎓 Education &amp; Professional Participation
 
 <table>
 <tr>
@@ -191,6 +240,7 @@ Ethiopia
 
 </td>
 </tr>
+
 <tr>
 <td align="center">🛡️</td>
 <td>
@@ -201,11 +251,12 @@ Participant in Ethiopia's cybersecurity talent program.
 
 </td>
 </tr>
+
 <tr>
 <td align="center">🌍</td>
 <td>
 
-**BRICS Machine Learning & Big Data Competition**
+**BRICS Machine Learning &amp; Big Data Competition**
 
 Participated in competition activities held in Yekaterinburg, Russia.
 
@@ -215,31 +266,57 @@ Participated in competition activities held in Yekaterinburg, Russia.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 I develop and explore projects across multiple engineering domains.
 
-| Domain | Focus |
-|---|---|
-| 💻 Backend Engineering | Secure APIs and scalable server-side applications |
-| 🎨 Frontend Engineering | Modern and responsive user interfaces |
-| 📱 Mobile Development | Cross-platform mobile applications |
-| 🔐 Cybersecurity | Security-focused applications and solutions |
-| 🤖 AI & Machine Learning | Intelligent features and data-driven systems |
-| 📊 Big Data | Data technologies and processing |
-| ⚙️ Automation | Integrated systems and automated workflows |
+### 💻 Software Development
+
+Building practical software applications, web-based solutions, and systems designed to address real-world challenges.
+
+### 🔐 Cybersecurity
+
+Exploring security challenges and developing security-focused solutions and applications.
+
+### 🤖 Machine Learning &amp; Big Data
+
+Exploring machine learning concepts, data technologies, and data-driven applications.
+
+### ⚙️ Automation Systems
+
+Developing systems that improve workflows, automate repetitive tasks, and optimize business processes.
+
+### 🔗 API &amp; System Integrations
+
+Connecting applications, external services, payment systems, communication platforms, and AI capabilities.
 
 <div align="center">
 
 <a href="https://github.com/bermuro95-wq?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore projects"/>
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore all projects"/>
 </a>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+# 🎯 Current Goals &amp; Engineering Focus
+
+I focus on designing, developing, and integrating modern technology solutions that address real-world challenges.
+
+- 🏗️ Building scalable backend systems and APIs.
+- 💻 Developing modern full-stack web applications.
+- 📱 Creating cross-platform mobile applications.
+- ⚙️ Designing business automation solutions.
+- 🤖 Integrating AI into real-world products.
+- 🔐 Engineering secure and reliable software applications.
+- 📊 Exploring machine learning and big data technologies.
+- 🌍 Collaborating on innovative technology projects.
+- 📚 Continuously improving my software engineering and technical skills.
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -248,7 +325,7 @@ I develop and explore projects across multiple engineering domains.
 </a>
 
 <a href="https://github.com/bermuro95-wq">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bermuro95-wq&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Most used languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bermuro95-wq&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Most used programming languages"/>
 </a>
 
 <br/><br/>
@@ -259,7 +336,7 @@ I develop and explore projects across multiple engineering domains.
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -269,20 +346,7 @@ I develop and explore projects across multiple engineering domains.
 
 ---
 
-## 🎯 Current Goals
-
-- 🚀 Engineering secure and scalable software applications.
-- 🏗️ Improving backend and frontend architecture.
-- 📱 Developing modern cross-platform mobile applications.
-- 🤖 Exploring AI-powered applications and integrations.
-- 🔐 Strengthening application security and cybersecurity knowledge.
-- ⚙️ Building practical automation systems.
-- 📊 Exploring machine learning and big data technologies.
-- 🌍 Collaborating on innovative technology projects.
-
----
-
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <div align="center">
 
@@ -307,5 +371,7 @@ I develop and explore projects across multiple engineering domains.
 <h3>💫 Building. Learning. Engineering. Innovating.</h3>
 
 <p>Thank you for visiting my GitHub profile!</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,100:2C5364&amp;height=120&amp;section=footer" width="100%" alt="Profile footer"/>
 
 </div>
