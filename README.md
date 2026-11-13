@@ -1,21 +1,42 @@
-<!-- ================================================= -->
-<!-- YOSEPH ABEBE | ULTIMATE ELITE GITHUB PROFILE      -->
-<!-- Software Developer • Cybersecurity • ML & Big Data -->
-<!-- ================================================= -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                                                                             -->
+<!--   ██╗   ██╗ ██████╗ ███████╗███████╗██████╗ ██╗  ██╗                        -->
+<!--   ╚██╗ ██╔╝██╔═══██╗██╔════╝██╔════╝██╔══██╗██║  ██║                        -->
+<!--    ╚████╔╝ ██║   ██║███████╗█████╗  ██████╔╝███████║                        -->
+<!--     ╚██╔╝  ██║   ██║╚════██║██╔══╝  ██╔═══╝ ██╔══██║                        -->
+<!--      ██║   ╚██████╔╝███████║███████╗██║     ██║  ██║                        -->
+<!--      ╚═╝    ╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝                        -->
+<!--                                                                             -->
+<!--   YOSEPH ABEBE — ELITE GITHUB PROFILE README                                -->
+<!--   Software Developer • Cybersecurity • ML & Big Data • Automation           -->
+<!--                                                                             -->
+<!--   🌍 Ethiopia | 🎓 BSc Information Systems | 🛡️ INSA Cyber Talent           -->
+<!--   🚀 BRICS ML & Big Data Competitor (Yekaterinburg, Russia)                 -->
+<!--                                                                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ═══════════ ANIMATED HERO HEADER ═══════════ -->
+<!-- ┌─────────────────────────────────────────────────────────────────────┐ -->
+<!-- │                    🌊 ANIMATED HERO HEADER                          │ -->
+<!-- └─────────────────────────────────────────────────────────────────────┘ -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=300&section=header&text=YOSEPH%20ABEBE&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20ML%20%26%20Big%20Data%20%E2%80%A2%20Automation&descAlignY=58&descSize=22" width="100%" alt="Yoseph Abebe"/>
 
-<!-- ═══════════ ANIMATED TYPING INTRO ═══════════ -->
+<!-- ┌─────────────────────────────────────────────────────────────────────┐ -->
+<!-- │                    ⌨️ ANIMATED TYPING INTRO                          │ -->
+<!-- └─────────────────────────────────────────────────────────────────────┘ -->
+
 <a href="https://github.com/bermuro95-wq">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=160&lines=%F0%9F%91%8B+Welcome+to+my+Digital+Universe;%F0%9F%92%BB+Software+Developer+%7C+%F0%9F%94%90+Cybersecurity+Engineer;%F0%9F%A4%96+ML+%26+Big+Data+Enthusiast+%7C+%E2%9A%99%EF%B8%8F+Automation+Architect;%F0%9F%9A%80+Building+Secure+%26+Scalable+Solutions;%F0%9F%8C%8D+Always+Learning.+Always+Building.+Always+Growing." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=%F0%9F%91%8B+Welcome+to+my+Digital+Universe;%F0%9F%92%BB+Software+Developer+%7C+%F0%9F%94%90+Cybersecurity+Engineer;%F0%9F%A4%96+ML+%26+Big+Data+Enthusiast+%7C+%E2%9A%99%EF%B8%8F+Automation+Architect;%F0%9F%9A%80+Building+Secure+%26+Scalable+Solutions;%F0%9F%8C%8D+Always+Learning.+Always+Building.+Always+Growing." alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<!-- ═══════════ PREMIUM BADGE BAR ═══════════ -->
+<!-- ┌─────────────────────────────────────────────────────────────────────┐ -->
+<!-- │                    🏅 PREMIUM BADGE BAR                              │ -->
+<!-- └─────────────────────────────────────────────────────────────────────┘ -->
+
 <p>
   <a href="https://github.com/bermuro95-wq">
     <img src="https://komarev.com/ghpvc/?username=bermuro95-wq&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge&labelColor=0D1117" alt="Profile views"/>
@@ -28,6 +49,10 @@
   </a>
   <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-00FF88?style=for-the-badge&labelColor=0D1117" alt="Status"/>
 </p>
+
+<!-- ┌─────────────────────────────────────────────────────────────────────┐ -->
+<!-- │                    🔗 SOCIAL CONNECT STRIP                           │ -->
+<!-- └─────────────────────────────────────────────────────────────────────┘ -->
 
 <p>
   <a href="https://github.com/bermuro95-wq">
@@ -51,7 +76,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════ ABOUT ME SECTION ═══════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              ABOUT ME SECTION                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
