@@ -452,11 +452,11 @@ I focus on designing, developing, and integrating modern technology solutions th
 </a>
 
 <a href="https://t.me/jossieka">
-<img src="https://img.shields.io/badge/Telegram-@jossieka-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @jossieka"/>
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 
 <a href="tel:+251917332199">
-<img src="https://img.shields.io/badge/Phone-%2B251917332199-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+<img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
 </a>
 
 <a href="mailto:bermuro95@gmail.com">
