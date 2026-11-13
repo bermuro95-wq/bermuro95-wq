@@ -1,13 +1,18 @@
-
 <!-- ====================================================== -->
 <!-- YOSEPH ABEBE | COMPLETE PROFESSIONAL GITHUB PROFILE    -->
 <!-- ====================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,100:2C5364&amp;height=200&amp;section=header&amp;text=YOSEPH%20ABEBE&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn" width="100%" alt="Yoseph Abebe Professional Banner"/>
+<!-- 🌊 Animated Header with Gradient Wave + Glow -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=YOSEPH%20ABEBE&fontSize=52&fontColor=ffffff&animation=fadeIn" width="100%" alt="Yoseph Abebe Professional Banner"/>
 
-<h2>Software Engineer | Backend &amp; Frontend | Cybersecurity</h2>
+<!-- ✨ Animated Gradient Name -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=YOSEPH+ABEBE;Software+Engineer;Cybersecurity+Enthusiast;AI+%26+Big+Data+Explorer" alt="Animated name"/>
+</h1>
+
+<h2>Software Engineer | Backend & Frontend | Cybersecurity</h2>
 
 <h3>Machine Learning | Big Data | AI | Automation</h3>
 
@@ -15,29 +20,39 @@
 Building scalable, secure, and intelligent technology solutions.
 </p>
 
+<!-- ⌨️ Typing Animation -->
 <a href="https://github.com/bermuro95-wq">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3000&amp;pause=1000&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+Scalable+Backend+Systems;Developing+Modern+Full-Stack+Applications;Creating+Cross-Platform+Mobile+Apps;Designing+Business+Automation+Solutions;Integrating+AI+Into+Real-World+Products" alt="Professional engineering focus"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Developing+Modern+Full-Stack+Applications;Creating+Cross-Platform+Mobile+Apps;Designing+Business+Automation+Solutions;Integrating+AI+Into+Real-World+Products" alt="Professional engineering focus"/>
 </a>
 
 <br/><br/>
 
+<!-- 🛡️ Animated Badges with Pulse -->
 <a href="https://github.com/bermuro95-wq">
-<img src="https://komarev.com/ghpvc/?username=bermuro95-wq&amp;label=PROFILE+VIEWS&amp;color=0e75b6&amp;style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=bermuro95-wq&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </a>
 
 <a href="https://github.com/bermuro95-wq?tab=followers">
-<img src="https://img.shields.io/github/followers/bermuro95-wq?style=for-the-badge&amp;logo=github&amp;label=Followers" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/followers/bermuro95-wq?style=for-the-badge&logo=github&label=Followers&color=36BCF7" alt="GitHub followers"/>
 </a>
 
 <a href="https://github.com/bermuro95-wq?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&amp;logo=github" alt="Repositories"/>
+<img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" alt="Repositories"/>
 </a>
+
+<br/>
+
+<!-- 🌈 Animated Divider Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- 👋 Animated Wave + About Me -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 Hello! I'm **YOSEPH ABEBE**, an Information Systems graduate from Ethiopia, passionate about software engineering, cybersecurity, artificial intelligence, and building technology that solves real-world problems.
 
@@ -56,11 +71,20 @@ I enjoy designing, developing, testing, and improving practical software solutio
 - ⚙️ **Automation:** Building connected systems and automated workflows.
 - 🚀 **Mission:** Creating secure, scalable, and impactful technology solutions.
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 ---
 
-# 🏗️ Engineering Focus
+<!-- 🏗️ Animated Section Header -->
+# <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40"> Engineering Focus
 
-## 1. Backend Engineering
+<!-- 🎨 Animated Fade-in Cards for each section -->
+
+<table>
+<tr>
+<td width="50%">
+
+## 1. 🚀 Backend Engineering
 
 Building secure and scalable server-side applications using:
 
@@ -69,16 +93,17 @@ Building secure and scalable server-side applications using:
 - Express.js
 - TypeScript
 - REST APIs
-- Authentication &amp; Authorization
+- Authentication & Authorization
 - Role-Based Access Control (RBAC)
 - Database Design
 - API Integrations
 
-<div align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts" alt="Backend technologies"/>
-</div>
 
-## 2. Frontend Engineering
+</td>
+<td width="50%">
+
+## 2. 🎨 Frontend Engineering
 
 Creating modern, responsive, and user-friendly interfaces using:
 
@@ -89,11 +114,14 @@ Creating modern, responsive, and user-friendly interfaces using:
 - Responsive Design
 - Component Architecture
 
-<div align="left">
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" alt="Frontend technologies"/>
-</div>
 
-## 3. Mobile Development
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+## 3. 📱 Mobile Development
 
 Building cross-platform mobile applications using:
 
@@ -101,15 +129,16 @@ Building cross-platform mobile applications using:
 - Dart
 - Mobile-First UX Principles
 
-<div align="left">
 <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile development technologies"/>
-</div>
 
-## 4. Data &amp; Infrastructure
+</td>
+<td width="50%">
+
+## 4. 🗄️ Data & Infrastructure
 
 Working with databases, deployment environments, and application infrastructure.
 
-**Databases &amp; ORM**
+**Databases & ORM**
 
 - PostgreSQL
 - MySQL
@@ -117,7 +146,7 @@ Working with databases, deployment environments, and application infrastructure.
 - TypeORM
 - Prisma
 
-**Infrastructure &amp; DevOps**
+**Infrastructure & DevOps**
 
 - Docker
 - Linux
@@ -125,11 +154,13 @@ Working with databases, deployment environments, and application infrastructure.
 - PM2
 - CI/CD Workflows
 
-<div align="left">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,docker,linux,nginx" alt="Database and infrastructure technologies"/>
-</div>
 
-## 5. AI &amp; Integrations
+</td>
+</tr>
+</table>
+
+## 5. 🤖 AI & Integrations
 
 Building intelligent workflows and connected applications using:
 
@@ -142,18 +173,26 @@ Building intelligent workflows and connected applications using:
 
 **Integration Focus:** Connecting applications, services, APIs, and intelligent capabilities into practical software solutions.
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+
 ---
 
 # 💡 Additional Technical Interests
 
-## 🔐 Cybersecurity &amp; Information Security
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🔐 Cybersecurity & Information Security
+
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100"/>
 
 Interested in building secure applications and exploring cybersecurity challenges.
 
 Areas of interest:
 
 - Application Security
-- Authentication &amp; Authorization
+- Authentication & Authorization
 - Role-Based Access Control
 - Secure API Development
 - Information Security
@@ -161,7 +200,12 @@ Areas of interest:
 
 **Program Participation:** INSA Cyber Talent — Ethiopia.
 
-## 🤖 Machine Learning &amp; Big Data
+</td>
+<td align="center" width="33%">
+
+### 🤖 Machine Learning & Big Data
+
+<img src="https://media.giphy.com/media/l0HlNaQ6gWdpVhA2s/giphy.gif" width="100"/>
 
 Interested in exploring data-driven technologies and intelligent systems.
 
@@ -175,7 +219,12 @@ Areas of interest:
 
 **International Participation:** BRICS Machine Learning and Big Data competition activities held in Yekaterinburg, Russia.
 
-## ⚙️ Automation Systems
+</td>
+<td align="center" width="33%">
+
+### ⚙️ Automation Systems
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/>
 
 Interested in developing systems that improve efficiency and reduce repetitive manual processes.
 
@@ -187,13 +236,19 @@ Areas of interest:
 - System Integration
 - Intelligent Workflows
 
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 ---
 
-# 🛠️ Additional Technologies &amp; Tools
+# 🛠️ Additional Technologies & Tools
 
 The following technologies are also part of my development and project toolkit.
 
-### Programming &amp; Web Technologies
+### Programming & Web Technologies
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,html,css,js,bootstrap" alt="Additional programming and web technologies"/>
@@ -205,7 +260,7 @@ The following technologies are also part of my development and project toolkit.
 - JavaScript
 - Bootstrap
 
-### Database &amp; Backend Tools
+### Database & Backend Tools
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=supabase,postgres" alt="Additional database technologies"/>
@@ -214,7 +269,7 @@ The following technologies are also part of my development and project toolkit.
 - Supabase
 - PostgreSQL
 
-### Development &amp; Deployment Tools
+### Development & Deployment Tools
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" alt="Development and deployment tools"/>
@@ -225,9 +280,11 @@ The following technologies are also part of my development and project toolkit.
 - Visual Studio Code
 - Netlify
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+
 ---
 
-# 🎓 Education &amp; Professional Participation
+# 🎓 Education & Professional Participation
 
 <table>
 <tr>
@@ -256,7 +313,7 @@ Participant in Ethiopia's cybersecurity talent program.
 <td align="center">🌍</td>
 <td>
 
-**BRICS Machine Learning &amp; Big Data Competition**
+**BRICS Machine Learning & Big Data Competition**
 
 Participated in competition activities held in Yekaterinburg, Russia.
 
@@ -264,43 +321,74 @@ Participated in competition activities held in Yekaterinburg, Russia.
 </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 ---
 
 # 🚀 Featured Projects
 
 I develop and explore projects across multiple engineering domains.
 
-### 💻 Software Development
+<table>
+<tr>
+<td align="center" width="20%">
+
+### 💻
+**Software Development**
 
 Building practical software applications, web-based solutions, and systems designed to address real-world challenges.
 
-### 🔐 Cybersecurity
+</td>
+<td align="center" width="20%">
+
+### 🔐
+**Cybersecurity**
 
 Exploring security challenges and developing security-focused solutions and applications.
 
-### 🤖 Machine Learning &amp; Big Data
+</td>
+<td align="center" width="20%">
+
+### 🤖
+**Machine Learning & Big Data**
 
 Exploring machine learning concepts, data technologies, and data-driven applications.
 
-### ⚙️ Automation Systems
+</td>
+<td align="center" width="20%">
+
+### ⚙️
+**Automation Systems**
 
 Developing systems that improve workflows, automate repetitive tasks, and optimize business processes.
 
-### 🔗 API &amp; System Integrations
+</td>
+<td align="center" width="20%">
+
+### 🔗
+**API & System Integrations**
 
 Connecting applications, external services, payment systems, communication platforms, and AI capabilities.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
 <a href="https://github.com/bermuro95-wq?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore all projects"/>
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects"/>
 </a>
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+
 ---
 
-# 🎯 Current Goals &amp; Engineering Focus
+# 🎯 Current Goals & Engineering Focus
+
+<img align="right" alt="Rocket" width="200" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif">
 
 I focus on designing, developing, and integrating modern technology solutions that address real-world challenges.
 
@@ -314,6 +402,8 @@ I focus on designing, developing, and integrating modern technology solutions th
 - 🌍 Collaborating on innovative technology projects.
 - 📚 Continuously improving my software engineering and technical skills.
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 ---
 
 # 📊 GitHub Analytics
@@ -321,16 +411,16 @@ I focus on designing, developing, and integrating modern technology solutions th
 <div align="center">
 
 <a href="https://github.com/bermuro95-wq">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bermuro95-wq&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bermuro95-wq&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&animation=1" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/bermuro95-wq">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bermuro95-wq&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Most used programming languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bermuro95-wq&layout=compact&theme=tokyonight&hide_border=true&animation=1" alt="Most used programming languages"/>
 </a>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=bermuro95-wq&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=bermuro95-wq&theme=tokyonight&hide_border=true&animated=true" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -340,9 +430,11 @@ I focus on designing, developing, and integrating modern technology solutions th
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bermuro95-wq&amp;theme=tokyo-night&amp;hide_border=true" width="100%" alt="GitHub contribution activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bermuro95-wq&theme=tokyo-night&hide_border=true&animation=1" width="100%" alt="GitHub contribution activity"/>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
 
 ---
 
@@ -350,17 +442,22 @@ I focus on designing, developing, and integrating modern technology solutions th
 
 <div align="center">
 
+<!-- 🌟 Animated Contact Cards -->
 <a href="https://github.com/bermuro95-wq">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="mailto:bermuro95@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
 **Open to collaboration, innovation, and meaningful engineering opportunities.**
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="300"/>
 
 </div>
 
@@ -372,6 +469,7 @@ I focus on designing, developing, and integrating modern technology solutions th
 
 <p>Thank you for visiting my GitHub profile!</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,100:2C5364&amp;height=120&amp;section=footer" width="100%" alt="Profile footer"/>
+<!-- 🌊 Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=footer&animation=fadeIn" width="100%" alt="Profile footer"/>
 
 </div>
